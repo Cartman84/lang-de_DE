@@ -16,7 +16,7 @@ Blacklisted USB Flash GUID=Gesperrte USB Flash GUID
 Branch=Zweig
 By using this software, you agree with our=Mit der Nutzung dieser Software stimmen Sie folgendem zu:
 Cache slots=Cache Slots
-Cannot connect to key-server=Es konnte keine Verbindung zum Key-Server hergestellt werden
+Cannot connect to key-server=Es konnte keine Verbindung zum Lizenz-Server hergestellt werden
 Check for Updates=Auf Aktualisierungen Prüfen
 click Install Key=Klicke <i>Lizenz Installieren</i>
 collecting diagnostic information this may take several minutes=Sammeln von Diagnose Informationen (dies kann mehrere Minuten dauern)
@@ -145,7 +145,7 @@ Your system has booted with the PCIe ACS Override setting enabled=Das System wur
 
 :diagnostics_1_plug:
 Diese Anwendung wird zur Fehlerbehebung verwendet. Es sammelt alle Hardwareinformationen und Konfigurationsdateien und packt diese Dateien als ZIP Datei, die lokal gespeichert werden kann.
-Anschließend kann die Datei Limetech gesendet werden bzw. im Forum verwendet werden.
+Anschließend kann die Datei LimeTech gesendet werden bzw. im Forum verwendet werden.
 
 Dies hilft anderen sich schnell einen Überblick über Ihr System zu verschaffen und Hilfe zu Leisten. Die folgenden Informations-
 und Konfigurationsdateien werden gesammelt:
@@ -232,7 +232,7 @@ Beachten Sie, dass dieses Tool die Docker Container möglicherweise negativ beei
 :end
 
 :registration_1_plug:
-Der Server ist nur Nutzbar, bis eine Lizenz gekauft oder eine kostenlose 30-Tage *Probelizenz*
+Der Server ist nur nutzbar, bis eine Lizenz gekauft oder eine kostenlose 30-Tage *Probelizenz*
 installiert wurde. Eine *Probelizenz* beinhaltet alle Funktionalitäten einer *Pro* Lizenz.
 
 Lizenzen sind an der Seriennummer des USB Flash Bootgeräts (GUID) gebunden. Bitte benutzen Sie ein hochwertiges Gerät
@@ -242,7 +242,7 @@ Hinweis: USB Speicherkartenlesegeräte sind generell **nicht** unterstützt, da 
 :end
 
 :registration_2_plug:
-+ Bitte stellen Sie sicher, dass Ihre [Serverzeit][DateTime] richtig eingestellt ist, Tolleranz 5 Minuten.
++ Bitte stellen Sie sicher, dass Ihre [Serverzeit][DateTime] richtig eingestellt ist, Toleranz 5 Minuten.
 + Bitte stellen Sie sicher, dass ein [DNS Server](DateTime) gesetzt ist.
 :end
 
